@@ -1,4 +1,4 @@
 # creative_demo
 This is my first Git Repository.
 <br>
-Author - Koustav Chatterjee
+Author - Koustav Chatterjee (Student)
